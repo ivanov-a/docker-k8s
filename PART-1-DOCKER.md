@@ -4,7 +4,7 @@ Intro to Docker
 
 Prerequisites
 =============
-- [ ] RAM ≥ 4Gb
+- [+] RAM ≥ 4Gb
 - [ ] RHEL8
 - [ ] Права локального админа для аккаунта участника {{ account }}
 - [ ] Доступен git repo с данным руководством {{ git-repo }} `gitlabci.raiffeisen.ru/container-trainings/training-docker`
@@ -38,7 +38,7 @@ Agenda
 - development environment?
 - testing environment?
 - production environment?
-- [ ] Виртуализация (инфраструктуры) VS контейнеризация (приложения)?
+- [ ] Виртуализация (инфраструктуры) VS контейнеризация (приложения)?
 - место на диске для гостевой ОС
 - время запуска гостевой ОС
 - overhead операций гостевой ОС
